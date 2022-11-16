@@ -1,6 +1,6 @@
 def run():
     print("hello")
-    kjl;
+    print("kjl")
 
 
 run()
